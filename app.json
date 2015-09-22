@@ -1,0 +1,7 @@
+{
+  "name": "Planetary Birthday",
+  "description": "Facebook birthday notifications for different planets",
+  "repository": "ttps://github.com/cuyaproductions/planetarybirthdays.git",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
